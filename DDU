@@ -1,0 +1,49 @@
+ {
+        "number": 0,
+        "route": "TH",
+        "destZ": "暫停服務",
+        "destY": "暫停服務",
+        "maxPZ": "1",
+        "priceZ1": "0.0",
+        "halfpriceZ1": "0.0",
+        "maxPY": "1",
+        "priceY1": "0.0",
+        "halfpriceY1": "0.0"
+    },
+    {
+        "number": 1,
+        "route": "860",
+        "destZ": "明月苑",
+        "destY": "凱琳東站",
+        "maxPZ": "1",
+        "priceZ1": "6.8",
+        "halfpriceZ1": "6.2",
+        "maxPY": "1",
+        "priceY1": "6.8",
+        "halfpriceY1": "6.2"
+    },
+    {
+        "number": 2,
+        "route": "861",
+        "destZ": "明月苑",
+        "destY": "南區",
+        "maxPZ": "1",
+        "priceZ1": "10.2",
+        "halfpriceZ1": "9.3",
+        "maxPY": "1",
+        "priceY1": "10.2",
+        "halfpriceY1": "9.3"
+    },
+    {
+        "number": 3,
+        "route": "862",
+        "destZ": "明月苑",
+        "destY": "中環",
+        "maxPZ": "1",
+        "priceZ1": "14.0",
+        "halfpriceZ1": "12.6",
+        "maxPY": "1",
+        "priceY1": "14.0",
+        "halfpriceY1": "12.6"
+    }
+]
